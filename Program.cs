@@ -24,7 +24,7 @@ namespace ClassTask1 // Note: actual namespace depends on the project name.
             Console.WriteLine("$");
             Console.WriteLine("$");
             Console.WriteLine("$");
-            Console.WriteLine("$");
+    
 
         }
     }
