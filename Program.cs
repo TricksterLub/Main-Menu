@@ -21,6 +21,10 @@ namespace ClassTask1 // Note: actual namespace depends on the project name.
             string input = Console.ReadLine();
             Spisok choice =(Spisok)int.Parse(input);
             Console.WriteLine($"Вы хотите {choice}");
+            Console.WriteLine("$");
+            Console.WriteLine("$");
+            Console.WriteLine("$");
+            Console.WriteLine("$");
 
         }
     }
